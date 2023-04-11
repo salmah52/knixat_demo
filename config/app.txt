@@ -1,0 +1,5 @@
+HOME = "www.knikat.com"
+ABOUT = "www.knixat.com/ABOUT"
+CONTACT = "www.knixat.com/CONTCAT"
+
+
